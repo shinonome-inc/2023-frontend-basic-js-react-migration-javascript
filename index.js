@@ -1,3 +1,5 @@
+import "./style.css";
+
 const buttonElements = document.querySelectorAll(".button-container button");
 const screenElement = document.querySelector(".screen");
 
